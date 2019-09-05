@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zeimaeghae.bigsbyspot.org/sitemap.xml
